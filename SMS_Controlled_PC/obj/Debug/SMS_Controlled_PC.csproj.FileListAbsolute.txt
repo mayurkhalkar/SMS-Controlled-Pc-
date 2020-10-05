@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2015\Projects\SMS_Controlled_PC\SMS_Controlled_PC\bin\Debug\SMS_Controlled_PC.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SMS_Controlled_PC\SMS_Controlled_PC\bin\Debug\SMS_Controlled_PC.exe
+c:\users\user\documents\visual studio 2015\Projects\SMS_Controlled_PC\SMS_Controlled_PC\bin\Debug\SMS_Controlled_PC.pdb
+c:\users\user\documents\visual studio 2015\Projects\SMS_Controlled_PC\SMS_Controlled_PC\obj\Debug\SMS_Controlled_PC.StartPage.resources
+c:\users\user\documents\visual studio 2015\Projects\SMS_Controlled_PC\SMS_Controlled_PC\obj\Debug\SMS_Controlled_PC.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\SMS_Controlled_PC\SMS_Controlled_PC\obj\Debug\SMS_Controlled_PC.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\SMS_Controlled_PC\SMS_Controlled_PC\obj\Debug\SMS_Controlled_PC.exe
+c:\users\user\documents\visual studio 2015\Projects\SMS_Controlled_PC\SMS_Controlled_PC\obj\Debug\SMS_Controlled_PC.pdb
+c:\users\user\documents\visual studio 2015\Projects\SMS_Controlled_PC\SMS_Controlled_PC\obj\Debug\SMS_Controlled_PC.Form1.resources
+C:\Users\user\documents\visual studio 2015\Projects\SMS_Controlled_PC\SMS_Controlled_PC\obj\Debug\SMS_Controlled_PC.User_Control.AboutUSUC.resources
+C:\Users\user\documents\visual studio 2015\Projects\SMS_Controlled_PC\SMS_Controlled_PC\obj\Debug\SMS_Controlled_PC.User_Control.DashboardUC.resources
+C:\Users\user\documents\visual studio 2015\Projects\SMS_Controlled_PC\SMS_Controlled_PC\obj\Debug\SMS_Controlled_PC.User_Control.HelpUC.resources
+C:\Users\user\documents\visual studio 2015\Projects\SMS_Controlled_PC\SMS_Controlled_PC\obj\Debug\SMS_Controlled_PC.User_Control.ProjectInfoUC.resources
